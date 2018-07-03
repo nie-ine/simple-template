@@ -64,97 +64,15 @@
     </head>
 
     <body><div id="content">
-        <h1>Friends, Romans, Countrymen</h1>
-        <h2>Lend me your ears</h2>
+        <h1>Hello World!</h1>
         <p>
-            Dear former MIT Science or Humanities student: A number of our socio-political researchers here at MIT 
-            have just finished an extensive global trend analysis which indicates an alarming future: 
-            within the coming months, overpopulation will become a massive issue globally. 
-            During the population reduction that is sure to occur, we predict that computer science students 
-            will be given higher survival priority. To protect our current students (future donors), 
-            we are changing the registration of all MIT undergraduates to course 6, effective immediately. 
-            Next year, you will be expected to enroll in and complete 6.009, 6.006, 6.004, 6.036, 6.046, 6.031, 
-            6.035, 6.901, 6.115, and 6.003. You will also need to take 7.16, the new programming-focused intro-bio GIR. 
-            Best, - MIT course 6 admins
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
-
-        <hr>
-        
-        <strong>An unordered list?</strong>
-        <ul>
-          <li>c++: 
-            <blockquote>"The position you applied for is no longer available"</blockquote>
-          </li>
-          <li>java: 
-            <blockquote>
-            "We sincerely appreciated your enthusiasm, outstanding interview, impeccible resume, 
-             and engaging personality. It is rare to find a candidate as qualified and capable 
-             as yourself. That being said, we regret to inform you that..."
-             </blockquote>
-          </li>
-          <li>python: 
-            <blockquote>
-            "... and we provide each of our software engineers with a standing desk.", "Actually, 
-            I'd prefer a normal desk if that's...", "WE PROVIDE EACH OF OUR SOFTWARE ENGINEERS WITH A STANDING DESK"
-            </blockquote>
-          </li>
-          <li>haskell: 
-<code> t o = whomSt :: so|ever| <*> it m $ ay conc . ern; it 
-     | is ++ m y !Pleasur (*e) ~~>> to >>= _ \i -> n fo (R m y o !! u)
-     | that -> [yo..u] ...</code>
-          </li>
-          <li>javascript: 
-            <blockquote><em>click here to learn all of ES6 in 20 seconds!</em> 
-              <a href="https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs"> http://obliterating.the.coding.interview.io/</a>
-            </blockquote>
-          </li>
-        </ul>
-
-        <hr>
-
-        <strong>An ordered list!</strong>
-        <ol>
-          <li>friendship</li>
-          <li>self-improvement</li>
-          <li>communication</li>
-        </ol> 
-
-        <hr>
-
-        <h3><em>Important Codes</em></h3>
-
-        <code>-- find the length of the longest consecutive 
--- subsequence of a repeated number in a list
-
-# ----------------- python ------------------
-
-def split(seq, func):
-    result = []
-    for num in seq:
-        if result and func(num, result[-1][-1]):
-            result[-1].append(num)
-        else:
-            result.append([num])
-    return result
-
-def maxSeq(seq):
-    splits = split(seq, lambda a, b: a == b)
-    return max(map(len, splits))
-
-# ----------------- haskell ------------------
-
-split []  _ = [[]]
-split [x] _ = [[x]]
-split (a:b:xs) func
-  | func a b  = let s:ss = split (b:xs) func in (a:s):ss
-  | otherwise = [a]:split (b:xs) func
-
-maxSeq seq = maximum $ map length $ split seq (==) 
-        </code>
-
-        <div>catto!</div>
-        <img src="https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=362a7baf8e58eab5f477b13befc0e62a&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb">
-    
     </div></body>
 </html>
 
