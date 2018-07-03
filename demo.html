@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="minimal html / css page template">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>untitled</title>
+
+        <style type="text/css">
+            html {
+              padding: 30px 10px;
+              background-color: #f8f8f8;
+            }
+
+            #content {
+              display: block;
+              max-width: 640px;
+              margin: 0px auto;
+              font-family: Verdana, Geneva, sans-serif;
+              font-size: 14px;
+              line-height: 21px;
+              word-wrap: break-word;
+              color: #444;
+            }
+
+            pre, code {
+              font-family: monospace;
+              font-size: 11px;
+              line-height: 13px;
+              color: #222;
+            }
+
+            code {
+              display: block;
+              white-space: pre;
+              background-color: #f0f0f0;
+              padding: 20px;
+              margin: 10px 0px;
+              max-width: none;
+              overflow-x: auto;
+            }
+
+            blockquote {
+              background-color: #f0f0f0;
+              padding: 20px;
+              margin: 5px 0px;
+            }
+
+            hr {
+              height: 2px;
+              border: none;
+              background-color: #ddd;
+            }
+
+            img { 
+              max-width: 100%; 
+              margin: 10px 0px;
+            }
+
+            h1, h2, h3, h4, h5, h6 { line-height: 100%; }
+            p { margin: 25px 0px; }
+            a { color: inherit; }
+        </style>
+    </head>
+
+    <body><div id="content">
+        <h1>Friends, Romans, Countrymen</h1>
+        <h2>Lend me your ears</h2>
+        <p>
+            Dear former MIT Science or Humanities student: A number of our socio-political researchers here at MIT 
+            have just finished an extensive global trend analysis which indicates an alarming future: 
+            within the coming months, overpopulation will become a massive issue globally. 
+            During the population reduction that is sure to occur, we predict that computer science students 
+            will be given higher survival priority. To protect our current students (future donors), 
+            we are changing the registration of all MIT undergraduates to course 6, effective immediately. 
+            Next year, you will be expected to enroll in and complete 6.009, 6.006, 6.004, 6.036, 6.046, 6.031, 
+            6.035, 6.901, 6.115, and 6.003. You will also need to take 7.16, the new programming-focused intro-bio GIR. 
+            Best, - MIT course 6 admins
+        </p>
+
+        <hr>
+        
+        <strong>An unordered list?</strong>
+        <ul>
+          <li>c++: 
+            <blockquote>"The position you applied for is no longer available"</blockquote>
+          </li>
+          <li>java: 
+            <blockquote>
+            "We sincerely appreciated your enthusiasm, outstanding interview, impeccible resume, 
+             and engaging personality. It is rare to find a candidate as qualified and capable 
+             as yourself. That being said, we regret to inform you that..."
+             </blockquote>
+          </li>
+          <li>python: 
+            <blockquote>
+            "... and we provide each of our software engineers with a standing desk.", "Actually, 
+            I'd prefer a normal desk if that's...", "WE PROVIDE EACH OF OUR SOFTWARE ENGINEERS WITH A STANDING DESK"
+            </blockquote>
+          </li>
+          <li>haskell: 
+<code> t o = whomSt :: so|ever| <*> it m $ ay conc . ern; it 
+     | is ++ m y !Pleasur (*e) ~~>> to >>= _ \i -> n fo (R m y o !! u)
+     | that -> [yo..u] ...</code>
+          </li>
+          <li>javascript: 
+            <blockquote><em>click here to learn all of ES6 in 20 seconds!</em> 
+              <a href="https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs"> http://obliterating.the.coding.interview.io/</a>
+            </blockquote>
+          </li>
+        </ul>
+
+        <hr>
+
+        <strong>An ordered list!</strong>
+        <ol>
+          <li>friendship</li>
+          <li>self-improvement</li>
+          <li>communication</li>
+        </ol> 
+
+        <hr>
+
+        <h3><em>Important Codes</em></h3>
+
+        <code>-- find the length of the longest consecutive 
+-- subsequence of a repeated number in a list
+
+# ----------------- python ------------------
+
+def split(seq, func):
+    result = []
+    for num in seq:
+        if result and func(num, result[-1][-1]):
+            result[-1].append(num)
+        else:
+            result.append([num])
+    return result
+
+def maxSeq(seq):
+    splits = split(seq, lambda a, b: a == b)
+    return max(map(len, splits))
+
+# ----------------- haskell ------------------
+
+split []  _ = [[]]
+split [x] _ = [[x]]
+split (a:b:xs) func
+  | func a b  = let s:ss = split (b:xs) func in (a:s):ss
+  | otherwise = [a]:split (b:xs) func
+
+maxSeq seq = maximum $ map length $ split seq (==) 
+        </code>
+
+        <div>catto!</div>
+        <img src="https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=362a7baf8e58eab5f477b13befc0e62a&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb">
+    
+    </div></body>
+</html>
+
+<!-- 
+MIT License
+Copyright (c) 2018 Avery N. Nortonsmith
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
+-->
