@@ -147,7 +147,7 @@ split []  _ = []
 split [x] _ = [[x]]
 split (a:b:xs) func
   | func a b  = let s:ss = split (b:xs) func in (a:s):ss
-  | otherwise = [a]:split (b:xs) func
+  | otherwise = [a]:(split (b:xs) func)
 
 maxSeq seq = maximum $ map length $ split seq (==) 
         </code>
