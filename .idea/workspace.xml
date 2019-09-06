@@ -2,46 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee91627-42bb-4920-b299-d27c8e1459a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1. front page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 data formalizing workflow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 Domain Ontologies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 web of ontologies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 ontology example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 ontology example 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 whats on a page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16. referencing pattern.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 Ontology and data graphics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18 dominiqueImportSlides.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Traktanden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5 results frontslide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. inseri visualise from database.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25. retos slides.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26. frontslide nect steps.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. further &amp; strong fair.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. 2-step formalization data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29. 2-step formalization data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. machine reasoning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31. machine reasoning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. work domains.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. architecture.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 semantic web technology frontslide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 swt objectives.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 benefits of formal semantics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 Modeling dependencies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ontology_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ontology_example2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/referencing_pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/two-step-formalization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/webOntologies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swt/1. Vision.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/1. Vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/19. inseri vision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/2. visualise from database.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. results goals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/2.5 share your data.html" beforeDir="false" afterPath="$PROJECT_DIR$/21. share your data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/3. embed existing websites.html" beforeDir="false" afterPath="$PROJECT_DIR$/22. inseri embed existing websites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/4. work environment example apps.html" beforeDir="false" afterPath="$PROJECT_DIR$/23. inseri work environment example apps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inseri/5. work environment upcoming features.html" beforeDir="false" afterPath="$PROJECT_DIR$/24. inseri work environment upcoming features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. front page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/1. front page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Traktanden.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/2. Traktanden.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.5 results frontslide.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/2.5 results frontslide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. results goals.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/3. results goals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. work domains.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/4. work domains.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. architecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/5. architecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 semantic web technology frontslide.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/6 semantic web technology frontslide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 swt objectives.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/7 swt objectives.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 benefits of formal semantics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_transfered to inseri/8 benefits of formal semantics.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1. front page.html">
+        <entry file="file://$PROJECT_DIR$/9 Modeling dependencies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="83" column="11" selection-start-line="12" selection-end-line="83" selection-end-column="11" />
+            <state relative-caret-position="449">
+              <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -69,9 +39,11 @@
     <findStrings>
       <find>Get</find>
       <find>/</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>\/</replace>
+      <replace>\&quot;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -99,15 +71,7 @@
         <option value="$PROJECT_DIR$/inseri/3. embed existing websites.html" />
         <option value="$PROJECT_DIR$/swt/1. Vision.html" />
         <option value="$PROJECT_DIR$/2 Traktanden.html" />
-        <option value="$PROJECT_DIR$/4. work domains.html" />
-        <option value="$PROJECT_DIR$/3. results goals.html" />
         <option value="$PROJECT_DIR$/1 front page.html" />
-        <option value="$PROJECT_DIR$/2. Traktanden.html" />
-        <option value="$PROJECT_DIR$/2.5 results frontslide.html" />
-        <option value="$PROJECT_DIR$/5. architecture.html" />
-        <option value="$PROJECT_DIR$/6 semantic web technology frontslide.html" />
-        <option value="$PROJECT_DIR$/7 swt objectives.html" />
-        <option value="$PROJECT_DIR$/8 benefits of formal semantics.html" />
         <option value="$PROJECT_DIR$/9 Modeling dependencies.html" />
         <option value="$PROJECT_DIR$/10 data formalizing workflow.html" />
         <option value="$PROJECT_DIR$/11 Domain Ontologies.html" />
@@ -130,6 +94,14 @@
         <option value="$PROJECT_DIR$/30. machine reasoning.html" />
         <option value="$PROJECT_DIR$/31. machine reasoning.html" />
         <option value="$PROJECT_DIR$/1. front page.html" />
+        <option value="$PROJECT_DIR$/2. Traktanden.html" />
+        <option value="$PROJECT_DIR$/2.5 results frontslide.html" />
+        <option value="$PROJECT_DIR$/3. results goals.html" />
+        <option value="$PROJECT_DIR$/4. work domains.html" />
+        <option value="$PROJECT_DIR$/5. architecture.html" />
+        <option value="$PROJECT_DIR$/6 semantic web technology frontslide.html" />
+        <option value="$PROJECT_DIR$/7 swt objectives.html" />
+        <option value="$PROJECT_DIR$/8 benefits of formal semantics.html" />
       </list>
     </option>
   </component>
@@ -161,7 +133,7 @@
             <path>
               <item name="simple-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="simple-template" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="_transfered to inseri" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,21 +146,22 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/swt" />
       <recent name="$PROJECT_DIR$/inseri" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_transfered to inseri" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,17 +192,17 @@
       <workItem from="1567431315613" duration="205000" />
       <workItem from="1567683657047" duration="4482000" />
       <workItem from="1567749056521" duration="9689000" />
-      <workItem from="1567787538594" duration="252000" />
+      <workItem from="1567787538594" duration="2777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22619000" />
+    <option name="totallyTimeSpent" value="25144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14940098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17406625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -280,68 +253,8 @@
     <entry file="file://$PROJECT_DIR$/images/logo.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.5 results frontslide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. work domains.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#blockquote#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/architecture.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. architecture.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 semantic web technology frontslide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7 swt objectives.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9 Modeling dependencies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Traktanden.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10 data formalizing workflow.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -375,13 +288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="86" column="23" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8 benefits of formal semantics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -471,16 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. results goals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26. frontslide nect steps.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="773">
@@ -509,10 +405,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1. front page.html">
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/2. Traktanden.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="83" column="11" selection-start-line="12" selection-end-line="83" selection-end-column="11" />
+        <state relative-caret-position="1110">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/1. front page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="76" column="109" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/2.5 results frontslide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/3. results goals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/4. work domains.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/5. architecture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="95" column="117" selection-start-line="95" selection-start-column="117" selection-end-line="95" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/6 semantic web technology frontslide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="76" column="109" selection-start-line="76" selection-start-column="109" selection-end-line="76" selection-end-column="109" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/7 swt objectives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="137" column="34" selection-start-line="137" selection-start-column="34" selection-end-line="137" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_transfered to inseri/8 benefits of formal semantics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9 Modeling dependencies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
         </state>
       </provider>
     </entry>
