@@ -24,7 +24,6 @@
             line-height: 21px;
             word-wrap: break-word;
             color: #444;
-            margin-top: 40px;
         }
 
         pre, code {
@@ -46,7 +45,7 @@
         }
 
         blockquote {
-            background-color: #f4f4f4;
+            background-color: rgba(162, 209, 255, 0.39);
             border: 1px solid #ddd;
             padding: 20px;
             margin: 5px 0px;
@@ -63,6 +62,16 @@
             margin: 10px 0px;
         }
 
+        .i {
+            color: #f7d336;
+            position: relative;
+        }
+        .i:before {
+            content: "ı";
+            position: absolute;
+            color: black;
+        }
+
         h1, h2, h3, h4, h5, h6 { line-height: 100%; }
         p { margin: 25px 0px; }
         a { color: inherit; }
@@ -73,9 +82,61 @@
     </style>
 
     <div id="content">
+        <h1>inseri</h1>
 
-        <img src="https://github.com/nie-ine/simple-template/blob/jahrestreffen-2019/images/logo.jpg?raw=true" height="75" style="display: inline-block; vertical-align: bottom;">
-        <h1 style="text-align: right; display: inline-block; margin-left: 20px;">Results</h1>
+        <h2 style="margin-top: 40px!important;" >Beispiel: Textanzeige</h2>
+
+        <blockquote>
+            <strong>Texte enthalten oft konkurrierende Baumstrukturen, definierbar als Graphen</strong>
+        </blockquote>
+
+        <blockquote style="margin-top: 15px">
+            <strong>
+                Browser erwarten eine Baumstruktur für die Darstellung (HTML)
+            </strong>
+        </blockquote>
+
+        <blockquote style="margin-top: 15px">
+            <strong>
+                → Definition eines Baumes durch Parameter
+            </strong>
+        </blockquote>
+
+        <blockquote style="margin-top: 15px">
+            <strong>
+                HTML-Anzeige mit dynamischem Markup als kleinstes Element
+            </strong>
+        </blockquote>
+
+        <pre>
+        <code>
+{
+  "blocks": {
+    "propertyIri": "http://api.knora.org/ontology/shared/text-structure/simple/v2#isPartOfTextExpression",
+    "propertyDirection": "inverted",
+    "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+    "lines": {
+      "propertyIri": "http://0.0.0.0:3333/ontology/0041/atharvaveda/simple/v2#isVerseOfHalfStrophe",
+      "propertyDirection": "inverted",
+      "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+      "interfix": "&amp;nbsp; ",
+      "columnRatio": ["0", "0", "0", "50%", "0", "0", "50%"],
+      "lineparts": {
+        "propertyIri": "http://api.knora.org/ontology/shared/prosodic-structure/simple/v2#isWordOfVerse",
+        "propertyDirection": "inverted",
+        "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+        "contentPropertyIri": "http://api.knora.org/ontology/shared/language/simple/v2#hasContent"
+      },
+      "farfarright": {
+        "propertyIri": "http://api.knora.org/ontology/shared/linguistics/simple/v2#hasComment",
+        "propertyDirection": "direct",
+        "contentProperty": "self"
+      }
+    }
+  }
+}
+        </code>
+      </pre>
 
     </div></body>
 </html>

@@ -82,16 +82,50 @@
     </style>
 
     <div id="content">
-        <h1><span class=" i i:before " >i</span>nser<span class=" i i:before ">i</span></h1>
+        <h1>inseri</h1>
 
-        <blockquote>A generic work and publication platform</blockquote>
+        <h2 style="margin-top: 40px!important;" >Beispiel: Navigation</h2>
 
+        <blockquote>
+            <strong>Viele Projekte organisieren ihre Daten als Baumstruktur</strong>
+        </blockquote>
 
-        <h3 style="margin-top: 40px!important;" >What can you do with it?</h3>
-        <ul>
-          <li><strong>Create your website</strong>
-              <blockquote>With generic and project specific modules, maintained in a central, long-term preserving way</blockquote>
-              The following apps are partly generic and partly project specific (transcription view, Parzival - Fassung)
+        <blockquote style="margin-top: 15px">
+            <strong>
+                Definition von Parametern
+            </strong>
+        </blockquote>
+
+        <blockquote style="margin-top: 15px">
+            <strong>
+                Dynamisches Laden von Unterkapiteln
+            </strong>
+        </blockquote>
+
+      <pre>
+        <code>
+{
+  "children": {
+    "propertyIri": "http://api.knora.org/ontology/shared/concept/simple/v2#isPartOf",
+    "propertyDirection": "inverted",
+    "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+    "routeKey": "kanda",
+    "children": {
+      "propertyIri": "http://api.knora.org/ontology/shared/literature/simple/v2#isPartOfVerseSongbook",
+      "propertyDirection": "inverted",
+      "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+      "routeKey": "sukta",
+      "children": {
+        "propertyIri": "http://0.0.0.0:3333/ontology/0041/atharvaveda/simple/v2#isStropheOfSukta",
+        "propertyDirection": "inverted",
+        "sortByPropertyIri": "http://api.knora.org/ontology/knora-api/simple/v2#seqnum",
+        "routeKey": "stanza"
+      }
+    }
+  }
+}
+        </code>
+      </pre>
 
     </div></body>
 </html>
